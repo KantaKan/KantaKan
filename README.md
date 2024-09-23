@@ -1,5 +1,4 @@
-<h2 align="left">Hi, I'm Kan 👋<br>💻 Coder by day, problem-solver by nature<br>🌱 Always exploring new technologies<br>🛠️ Building solutions, one line of code at a time<br>🚀 Looking to collaborate on awesome projects</h2>
-
+<h2 align="left">👋 Hi, I’m @KantaKan <br>💻 Coder by day, problem-solver by nature<br>🌱 Always exploring new technologies<br>🛠️ Building solutions, one line of code at a time<br>🌱 I’m currently learning Go</h2>
 ###
 
 <h4 align="left">💻 Crafting Solutions with These Skills</h4>

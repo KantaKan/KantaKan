@@ -60,7 +60,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img height="555" src="https://media.discordapp.net/attachments/1287636306511401044/1287636357552017450/819CC1E8-61BD-457F-8567-AB5691E5004D.jpg?ex=66f2444e&is=66f0f2ce&hm=823a2ba5af779eb238dfcd53ee2297bb3576977f9590538673fd542b784769b3&=&format=webp&width=377&height=670"  />
 </div>
 

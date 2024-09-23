@@ -1,6 +1,16 @@
 <h2 align="left">👋 Hi, I’m @KantaKan <br>💻 Coder by day, problem-solver by nature<br>🌱 Always exploring new technologies<br>🛠️ Building solutions, one line of code at a time<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="25" alt="go logo"  /> I’m currently learning Go</h2>
 
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KantaKan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KantaKan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
+
+
+
 <h4 align="left">💻 Crafting Solutions with These Skills</h4>
 
 
@@ -63,3 +73,4 @@
 </div>
 
 ###
+

@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I’m @KantaKan <br>💻 Coder by day, problem-solver by nature<br>🌱 Always exploring new technologies<br>🛠️ Building solutions, one line of code at a time<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  /> I’m currently learning Go</h2>
+<h2 align="left">👋 Hi, I’m @KantaKan <br>💻 Coder by day, problem-solver by nature<br>🌱 Always exploring new technologies<br>🛠️ Building solutions, one line of code at a time<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="25" alt="go logo"  /> I’m currently learning Go</h2>
 ###
 
 <h4 align="left">💻 Crafting Solutions with These Skills</h4>

@@ -68,9 +68,6 @@
 
 <br clear="both">
 
-<div align="left">
-  <img height="555" src="https://cdn.discordapp.com/attachments/1287636306511401044/1287636357552017450/819CC1E8-61BD-457F-8567-AB5691E5004D.jpg?ex=66fa2d4e&is=66f8dbce&hm=c8b5aa3d4b23d0cb845b6b3b594e2578cfb2eed8e07c0e2d5285a8e4132194cb&"  />
-</div>
 
 ###
 

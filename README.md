@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I’m @KantaKan <br>💻 Coder by day, problem-solver by nature<br>🌱 Always exploring new technologies<br>🛠️ Building solutions, one line of code at a time<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="25" alt="go logo"  /> I’m currently learning Go</h2>
+<h2 align="left">👋 Hi, I’m @KantaKan</h2>
 
 
 
@@ -57,9 +57,6 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
 </div>
 
-
-
-<h3 align="left">Full-time Bunnies, Part-time Developer 🐰💻<br>NewJeans fan by heart, coder by trade! Whether I’m jamming to K-pop or solving bugs, I’m all about creativity and clean code. Check out my projects and let’s collaborate! 🎶🚀</h3>
 
 
 

@@ -70,10 +70,6 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/KantaKan/KantaKan/output/github-snake.svg" />
   </picture>
 
-  <br/><br/>
-
-  <img alt="ocean-snake" src="https://raw.githubusercontent.com/KantaKan/KantaKan/output/ocean.gif" />
-
 </div>
 
 

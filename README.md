@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I’m @KantaKan</h2>
+<h1 align="left">👋 Hi, I’m @KantaKan</h2>
 
 
 
@@ -8,7 +8,7 @@
 
 
 
-<h4 align="left">💻 Crafting Solutions with These Skills</h4>
+<h2 align="left">part time dev</h2>
 
 
 <div align="left">

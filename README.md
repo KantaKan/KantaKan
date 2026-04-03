@@ -18,3 +18,20 @@ Part time dev
     <img alt="github-snake" src="https://raw.githubusercontent.com/KantaKan/KantaKan/output/github-snake.svg" />
   </picture>
 </div>
+
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=KantaKan&show_icons=true&theme=transparent" height="150" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KantaKan&layout=compact&theme=transparent" height="150" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api?username=KantaKan&enable_icons=true&show_icons=true&streak=true&theme=transparent" />
+    </td>
+  </tr>
+</table>

@@ -1,14 +1,14 @@
 <h1 align="left">👋 Hi, I'm @KantaKan</h1>
-### 👨‍💻 Part-time Developer
+Part time dev
 <div align="left">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,nextjs,python,go,tailwind,git,linux" height="40" />
 </div>
----
-### 🌐 Connect with me
+
+
 <a href="https://linkedin.com/in/kantapon" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin" />
 </a>
----
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KantaKan/KantaKan/output/github-snake-dark.svg" />
